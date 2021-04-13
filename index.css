@@ -1,0 +1,38 @@
+body {
+    background-color:whitesmoke;
+}
+
+div.titulo{
+    border: 1px solid black
+}
+
+div.titulo h1{
+    text-align: center;
+    font-size: medium;
+}
+
+div.conta{
+    border: 1px solid black;
+}
+
+div.conta p{
+    margin-left: 10px;
+}
+
+div.inputs{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+div.result{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+#calcular {
+    float: right;
+}
